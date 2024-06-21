@@ -1,0 +1,400 @@
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 6200, "shape": "round", "color": "h", "clarity": "vvs2", "carat": 1.1, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3100, "shape": "princess", "color": "i", "clarity": "vs2", "carat": 0.7, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 4500, "shape": "emerald", "color": "j", "clarity": "if", "carat": 1.0, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 5000, "shape": "asscher", "color": "d", "clarity": "vvs1", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 3200, "shape": "marquise", "color": "e", "clarity": "vs1", "carat": 0.8, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 2800, "shape": "oval", "color": "f", "clarity": "if", "carat": 0.7, "cut": "good", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4200, "shape": "radiant", "color": "g", "clarity": "si1", "carat": 1.0, "cut": "fair", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3500, "shape": "pear", "color": "h", "clarity": "vvs2", "carat": 0.9, "cut": "excellent", "isLabDiamond": false}
+{"index": {"_index": "diamonds"}}
+{"price": 4000, "shape": "heart", "color": "i", "clarity": "vs2", "carat": 1.1, "cut": "very good", "isLabDiamond": true}
+{"index": {"_index": "diamonds"}}
+{"price": 3700, "shape": "cushion", "color": "j", "clarity": "if", "carat": 0.8, "cut": "good", "isLabDiamond": false}

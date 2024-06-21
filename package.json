@@ -1,0 +1,23 @@
+{
+  "name": "r2net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js","scripts": {
+    "dev": "concurrently \"npm run start:be\" \"npm run start:fe\"",
+    "start:be": "cd be && npm start",
+    "start:fe": "cd fe && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.14.0",
+    "apollo-server-express": "^3.13.0",
+    "express": "^4.19.2",
+    "graphql": "^16.8.2",
+    "mongodb": "^6.7.0"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
